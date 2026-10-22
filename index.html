@@ -1,6 +1,20 @@
 <!doctype html>
 <html lang="en" class="scroll-smooth scroll-pt-[5rem] text-[85%] sm:text-[90%] md:text-[95%] lg:text-[100%]">
   <head>
+    <!-- Single Page Apps for GitHub Pages router recovery -->
+    <script type="text/javascript">
+      (function(l) {
+        if (l.search[1] === '/' ) {
+          var decoded = l.search.slice(1).split('&').map(function(s) { 
+            return s.replace(/~and~/g, '&') 
+          }).join('?');
+          window.history.replaceState(null, null,
+              l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      }(window.location))
+    </script>
+
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
