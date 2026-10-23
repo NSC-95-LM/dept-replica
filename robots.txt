@@ -2,6 +2,6 @@ User-agent: *
 Allow: /
 
 # Exclude internal funnel thank-you page from organic search index
-Disallow: /dept-replica/get-started/thank-you
+Disallow: /dcent/get-started/thank-you
 
-Sitemap: https://nsc-95-lm.github.io/dept-replica/sitemap.xml
+Sitemap: https://nsc-95-lm.github.io/dcent/sitemap.xml

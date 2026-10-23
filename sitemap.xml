@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nsc-95-lm.github.io/dept-replica/</loc>
+    <loc>https://nsc-95-lm.github.io/dcent/</loc>
     <lastmod>2026-10-22T08:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://nsc-95-lm.github.io/dept-replica/get-started</loc>
+    <loc>https://nsc-95-lm.github.io/dcent/get-started</loc>
     <lastmod>2026-10-22T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://nsc-95-lm.github.io/dept-replica/about</loc>
+    <loc>https://nsc-95-lm.github.io/dcent/about</loc>
     <lastmod>2026-10-22T08:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://nsc-95-lm.github.io/dept-replica/works</loc>
+    <loc>https://nsc-95-lm.github.io/dcent/works</loc>
     <lastmod>2026-10-22T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://nsc-95-lm.github.io/dept-replica/insights</loc>
+    <loc>https://nsc-95-lm.github.io/dcent/insights</loc>
     <lastmod>2026-10-22T08:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
-    <loc>https://nsc-95-lm.github.io/dept-replica/culture</loc>
+    <loc>https://nsc-95-lm.github.io/dcent/culture</loc>
     <lastmod>2026-10-22T08:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
   </url>
   <url>
-    <loc>https://nsc-95-lm.github.io/dept-replica/contact</loc>
+    <loc>https://nsc-95-lm.github.io/dcent/contact</loc>
     <lastmod>2026-10-22T08:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.70</priority>
